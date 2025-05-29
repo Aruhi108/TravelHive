@@ -80,7 +80,7 @@
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.19"
   },
-  "description": "**URL**: https://lovable.dev/projects/c7f5a157-aa55-4618-a634-f4383fcfe663",
+ 
   "main": "eslint.config.js",
   "keywords": [],
   "author": "",
