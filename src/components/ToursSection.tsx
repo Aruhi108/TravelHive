@@ -12,7 +12,7 @@ const ToursSection = () => {
       groupSize: "8-12 people",
       location: "Lakshadeep Islands",
       difficulty: "Moderate",
-      price: "10,299",
+      price: "₹10,299/person",
       rating: 4.9,
       reviews: 127
     },
@@ -24,7 +24,7 @@ const ToursSection = () => {
       groupSize: "6-10 people",
       location: "Himalyan Moutain",
       difficulty: "Challenging",
-      price: "12,199",
+      price: "₹12,199/person",
       rating: 4.8,
       reviews: 89
     },
@@ -36,7 +36,7 @@ const ToursSection = () => {
       groupSize: "10-15 people",
       location: "Sundarbans Mangrove Forest",
       difficulty: "Easy",
-      price: "10099",
+      price: "₹10,099/person",
       rating: 4.7,
       reviews: 203
     }
